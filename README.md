@@ -8,7 +8,7 @@ The goal of this project is to create an informative, responsive, and visually a
 
 ## 🚀 Live Demo
 
-🔗https://arpit005-dev.github.io/Inamigos-Foundation-TASK-1/
+🔗https://arpit005-dev.github.io/Inamigos_Intership_Projects/TASK-1/
 
 ---
 
