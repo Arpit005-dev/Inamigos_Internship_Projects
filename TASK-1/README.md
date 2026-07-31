@@ -6,7 +6,7 @@ The goal of this project was to create an informative, responsive, and visually 
 
 ## 🚀 Live Demo
 
-🔗 [View the Live Website](https://arpit005-dev.github.io/Inamigos_Intership_Projects/TASK-1/)
+🔗 [View the Live Website](https://arpit005-dev.github.io/Inamigos_Internship_Projects/TASK-1/)
 
 ## 📌 About the Project
 
