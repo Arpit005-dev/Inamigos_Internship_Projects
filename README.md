@@ -4,8 +4,12 @@ This repository contains the projects and tasks completed during my Web Developm
 
 The internship tasks focus on developing responsive, user-friendly, and visually appealing webpages using frontend web technologies.
 
-👨‍💻 Intern Details
-Name: Arpit Mishra
-Role: Web Development Intern
-Organization: InAmigos Foundation
-GitHub: Arpit005-dev
+## 👨‍💻 Intern Details
+
+| Detail           | Information                                     |
+| ---------------- | ----------------------------------------------- |
+| **Name**         | Arpit Mishra                                    |
+| **Role**         | Web Development Intern                          |
+| **Organization** | InAmigos Foundation                             |
+| **GitHub**       | [Arpit005-dev](https://github.com/Arpit005-dev) |
+
