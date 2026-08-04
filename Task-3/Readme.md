@@ -20,6 +20,14 @@ The website provides a modern interface where students can explore AI-powered le
 
 This project was created as part of the **InAmigos Foundation AI Web Development Internship**.
 
+## 🚀 Live Demo
+
+Visit the deployed website:
+
+🔗 **https://arpit005-dev.github.io/Inamigos_Internship_Projects/Task-3/Task3_AI_Website_AstraLearn/**
+
+---
+
 ---
 
 ## ✨ Key Features
@@ -81,13 +89,7 @@ Task3_AI_Website_AstraLearn/
 
 ---
 
-## 🚀 Live Demo
 
-Visit the deployed website:
-
-🔗 **https://arpit005-dev.github.io/Inamigos_Internship_Projects/Task-3/Task3_AI_Website_AstraLearn/**
-
----
 
 ## 💻 Run the Project Locally
 
