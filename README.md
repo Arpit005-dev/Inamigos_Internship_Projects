@@ -85,12 +85,15 @@ The internship focuses on:
 
 ## 📁 Repository Structure
 
+
+```text
 Inamigos_Internship_Projects/
 │
 ├── TASK-1/
 ├── TASK-2/
 ├── TASK-3/
 └── TASK-4/
+```
 
 
 ## 💡 Key Learnings
