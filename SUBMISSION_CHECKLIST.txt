@@ -1,0 +1,17 @@
+TASK 3 — AI WEBSITE GENERATION
+
+Project name: AstraLearn AI
+Domain: Education Technology / AI Learning Platform
+AI tool used: ChatGPT
+Website files: index.html, style.css, script.js
+Screenshots: screenshots/desktop-full-page.png and screenshots/mobile-home.png
+
+FINAL SUBMISSION STEPS
+[ ] Open the website and check all sections.
+[ ] Upload the project folder or ZIP to Google Drive.
+[ ] Host the website on GitHub Pages and copy its link.
+[ ] Post the project on LinkedIn.
+[ ] Tag InAmigos Foundation in the LinkedIn post.
+[ ] Take a screenshot of the LinkedIn post.
+[ ] Upload the LinkedIn screenshot to the Drive folder.
+[ ] Keep the files properly named and organized.

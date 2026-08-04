@@ -1,29 +1,59 @@
-🌍 InAmigos Foundation — Web Development Internship Tasks
+# AstraLearn AI — AI Website Generation Project
 
-This repository contains the projects and tasks completed during my Web Development Internship at InAmigos Foundation.
+A complete, responsive website generated with AI for an education technology startup. AstraLearn AI offers personalized learning paths, a 24/7 AI tutor, adaptive quizzes, progress insights, hands-on projects, and career-readiness support.
 
-The internship tasks focus on developing responsive, user-friendly, and visually appealing webpages using frontend web technologies.
+## Included sections
 
-## 👨‍💻 Intern Details
+- Home / Hero
+- About
+- Services
+- How It Works
+- Learner Testimonial
+- Contact Form
+- Responsive Navigation
+- Interactive AI Assistant Demo
+- Footer
 
-| Detail           | Information                                     |
-| ---------------- | ----------------------------------------------- |
-| **Name**         | Arpit Mishra                                    |
-| **Role**         | Web Development Intern                          |
-| **Organization** | InAmigos Foundation                             |
-| **GitHub**       | [Arpit005-dev](https://github.com/Arpit005-dev) |
+## Technologies
 
-## 🙏 Acknowledgement
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- AI-assisted planning, copywriting, layout design, and code generation using ChatGPT
 
-I would like to thank **InAmigos Foundation** for providing me with the opportunity to work on this project and improve my frontend web-development skills.
+## Features
 
-## 📄 Disclaimer
+- Modern dark, responsive UI
+- Desktop, tablet, and mobile layouts
+- Smooth scrolling and reveal animations
+- Active navigation state
+- Contact form validation
+- Functional demo AI chat widget
+- Accessible labels and semantic HTML
 
-This project was created for educational and internship purposes. The information and visual materials related to InAmigos Foundation belong to their respective owners.
+## How to run
 
-## ⭐ Support
+1. Download or clone this folder.
+2. Open `index.html` in a browser, or use the VS Code Live Server extension.
+3. Edit text, links, and contact details as needed.
 
-If you found this project useful, consider giving the repository a **star**.
+## GitHub Pages deployment
 
-Made with ❤️ by **Arpit Mishra**
+1. Create a public GitHub repository.
+2. Upload `index.html`, `style.css`, and `script.js` to the repository root.
+3. Open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select `main` and `/root`, then save.
+6. Copy the generated live website URL after deployment.
 
+## Task submission checklist
+
+- Upload website files and screenshots to the assigned Google Drive folder.
+- Copy the live website link or include the screenshots.
+- Publish the project on LinkedIn or another social platform.
+- Tag **InAmigos Foundation**.
+- Save a screenshot of the social media post as proof.
+
+---
+
+Created for the **AI Website Generation** internship task.

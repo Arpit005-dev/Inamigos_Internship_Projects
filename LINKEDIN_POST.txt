@@ -1,0 +1,23 @@
+🚀 Completed Task 3: AI Website Generation! 🤖🌐
+
+I created “AstraLearn AI,” a responsive education-technology website designed to make learning more personalized and engaging through artificial intelligence.
+
+The website includes:
+✅ Modern homepage and responsive navigation
+✅ About and services sections
+✅ Personalized AI learning paths
+✅ 24/7 AI tutor concept
+✅ Adaptive quizzes and progress insights
+✅ How-it-works section
+✅ Contact form and interactive AI assistant demo
+
+For this project, I used ChatGPT for AI-assisted concept development, website planning, content creation, UI design direction, and code generation. The final website was developed using HTML, CSS, and JavaScript.
+
+This task helped me understand how AI tools can support practical website creation—from idea generation to a complete working interface.
+
+🔗 Live Website: [ADD YOUR GITHUB PAGES LINK]
+🔗 GitHub Repository: [ADD YOUR REPOSITORY LINK]
+
+Thank you, InAmigos Foundation, for this valuable learning opportunity!
+
+#InAmigos #InAmigosFoundation #AIWebsite #WebDevelopment #ArtificialIntelligence #HTML #CSS #JavaScript #InternshipTask #LearningByDoing
