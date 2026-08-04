@@ -72,20 +72,12 @@ The website includes:
 
 ---
 
-## 📁 Project Structure
 
-```text
-Task3_AI_Website_AstraLearn/
 │
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-│
-└── assets/
-    ├── images/
-    └── icons/
-```
+├── index.html        # Main website structure
+├── style.css         # Website styling and responsive design
+├── script.js         # JavaScript functionality and animations
+└── README.md         # Project documentation
 
 ---
 
