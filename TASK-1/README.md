@@ -104,14 +104,6 @@ Frontend Web Developer
 B.Tech Computer Science Engineering Student
 
 
-## 👨‍💻 Developed By
-
-**Arpit Mishra**
-
-Frontend Web Developer | AI Web Development Intern
-B.Tech in Computer Science Engineering
-Madhya Pradesh, India 🇮🇳
-
 * **GitHub:** [Arpit005-dev](https://github.com/Arpit005-dev)
 * **LinkedIn:** [Arpit Mishra](https://www.linkedin.com/in/arpit-mishra-839665301)
 * **Instagram:** [@11_arpitmishra](https://instagram.com/11_arpitmishra)
