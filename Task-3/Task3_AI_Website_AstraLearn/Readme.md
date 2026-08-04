@@ -66,10 +66,11 @@ The website includes several modern design elements, such as:
 ```text
 Inamigos_Internship_Projects/
 │
+├── README.md        # Project documentation
 ├── index.html       # Main website structure
 ├── style.css        # Styling, responsiveness, and animations
-├── script.js        # Website interactions and form validation
-└── README.md        # Project documentation
+└── script.js        # Website interactions and form validation
+
 ```
 
 ## 🎯 Task Requirements Followed
@@ -134,7 +135,7 @@ B.Tech Computer Science Engineering Student
 
 ## 🔗 Important Links
 
-- 🌐 [Live Project Demo](https://arpit005-dev.github.io/Inamigos_Internship_Projects/)
+- 🌐 [Live Project Demo](https://arpit005-dev.github.io/Inamigos_Internship_Projects/Task-3/Task3_AI_Website_AstraLearn/)
 - 💻 [GitHub Profile](https://github.com/Arpit005-dev)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/arpit-mishra-839665301)
 
