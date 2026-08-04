@@ -87,15 +87,10 @@ The internship focuses on:
 
 Inamigos_Internship_Projects/
 │
-├── README.md
-│
 ├── TASK-1/
-│ 
 ├── TASK-2/
-│ 
-├── Task-3/
-│
-└── Task-4/
+├── TASK-3/
+└── TASK-4/
 
 
 ## 💡 Key Learnings
