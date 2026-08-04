@@ -85,7 +85,6 @@ The internship focuses on:
 
 ## 📁 Repository Structure
 
-
 Inamigos_Internship_Projects/
 │
 ├── README.md
@@ -97,9 +96,7 @@ Inamigos_Internship_Projects/
 ├── Task-3/
 │
 └── Task-4/
-```
 
----
 
 ## 💡 Key Learnings
 
