@@ -6,7 +6,7 @@ The goal of this project was to create a complete, responsive, and visually appe
 
 ## 🚀 Live Demo
 
-🔗 [View the Live Website](https://arpit005-dev.github.io/Inamigos_Internship_Projects/)
+🔗 [View the Live Website](https://arpit005-dev.github.io/Inamigos_Internship_Projects/Task-3/Task3_AI_Website_AstraLearn/)
 
 ## 📌 About the Project
 
