@@ -1,6 +1,4 @@
-# InAmigos Foundation Website Improvement Analysis
-
-## Task 2 – AI Web Development Internship
+모 InAmigos Foundation Website Improvement Analysis
 
 This repository contains a detailed **website improvement analysis** of the official InAmigos Foundation website. The report reviews the website's content, design, navigation, usability, mobile responsiveness, accessibility, trust signals, and conversion experience.
 
