@@ -105,11 +105,9 @@ B.Tech Computer Science Engineering Student
 
 ## 🔗 Important Links
 
-* **GitHub:** [Arpit005-dev](https://github.com/Arpit005-dev)
-* **LinkedIn:** [Arpit Mishra](https://www.linkedin.com/in/arpit-mishra-839665301)
-* **Instagram:** [@11_arpitmishra](https://instagram.com/11_arpitmishra)
-* **Email:** [rewaarpit11@gmail.com](mailto:rewaarpit11@gmail.com)
-
+- 🌐 [Live Project Demo](https://arpit005-dev.github.io/Inamigos_Internship_Projects/Task-3/Task3_AI_Website_AstraLearn/)
+- 💻 [GitHub Profile](https://github.com/Arpit005-dev)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/arpit-mishra-839665301)
 ---
 
 ## 🙏 Acknowledgement
