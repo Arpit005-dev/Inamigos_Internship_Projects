@@ -237,11 +237,27 @@ Through this task, I improved my understanding of:
 
 ---
 
-## 👨‍💻 Author
 
-**Arpit Mishra**  
-AI Web Development Intern  
-InAmigos Foundation
+## 👨‍💻 Developed By
+
+**Arpit Mishra**
+
+Frontend Web Developer | AI Web Development Intern
+B.Tech in Computer Science Engineering
+Madhya Pradesh, India 🇮🇳
+
+* **GitHub:** [Arpit005-dev](https://github.com/Arpit005-dev)
+* **LinkedIn:** [Arpit Mishra](https://www.linkedin.com/in/arpit-mishra-839665301)
+* **Instagram:** [@11_arpitmishra](https://instagram.com/11_arpitmishra)
+* **Email:** [rewaarpit11@gmail.com](mailto:rewaarpit11@gmail.com)
+
+---
+
+## 🙏 Acknowledgement
+
+Special thanks to the **InAmigos Foundation** for providing the opportunity to explore AI-powered website development and apply web-development skills to a practical project.
+
+---
 
 📅 **Report Date:** 1 August 2026
 
