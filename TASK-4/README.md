@@ -1,11 +1,5 @@
 # 🎨 Task 4 – NGO Website Feature Highlight
 
-## 📌 Internship
-
-**Organization:** InAmigos Foundation  
-**Internship Role:** AI Web Development Intern  
-**Created By:** Arpit Mishra  
-
 ---
 
 ## 📝 Task Overview
@@ -159,17 +153,28 @@ Through this task, I learned:
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Internship
 
-- **GitHub:** [Arpit005-dev](https://github.com/Arpit005-dev)
-- **LinkedIn:** [Arpit Mishra](https://www.linkedin.com/in/arpit-mishra-839665301)
+This project was completed as part of my **AI Web Development Internship at InAmigos Foundation**.
+
+## 👨‍💻 Developed By
+
+**Arpit Mishra**
+
+Frontend Web Developer  
+AI Web Development Intern  
+B.Tech Computer Science Engineering Student
+
+## 🔗 Important Links
+
+- 🌐 [Live Project Demo](https://arpit005-dev.github.io/Inamigos_Internship_Projects/Task-3/Task3_AI_Website_AstraLearn/)
+- 💻 [GitHub Profile](https://github.com/Arpit005-dev)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/arpit-mishra-839665301)
+
+## 📄 License
+
+This project was created for educational and internship purposes.
 
 ---
 
-## 🙏 Acknowledgement
-
-I am grateful to **InAmigos Foundation** for providing this practical task and the opportunity to learn more about NGO website design, UI/UX, and social-impact communication.
-
----
-
-⭐ If you found this project useful, consider giving the repository a star.
+⭐ If you found this project useful, consider giving the repository a star!
