@@ -14,7 +14,7 @@ A collection of projects completed during my **AI Web Development Internship at 
 
 ---
 
-## 📌 About the Internship
+## 📌 About the Internship :-
 
 This repository contains all the tasks and projects completed as part of the **AI Web Development Internship at InAmigos Foundation**.
 
