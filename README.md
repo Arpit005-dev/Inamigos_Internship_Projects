@@ -38,7 +38,7 @@ The internship focuses on:
 | Task 1   | NGO Awareness Website        | A responsive awareness website presenting the mission, projects and social impact of InAmigos Foundation.    | [View Website](https://arpit005-dev.github.io/Inamigos_Internship_Projects/TASK-1/)                             |
 | Task 2   | Website Improvement Analysis | Analysis of an existing website with screenshots, identified issues and suggested UI/UX improvements.        | [View Task](./TASK-2/)                                                                                          |
 | Task 3   | AstraLearn AI Website        | An AI-powered educational platform website with modern sections, responsive design and interactive elements. | [View Website](https://arpit005-dev.github.io/Inamigos_Internship_Projects/Task-3/Task3_AI_Website_AstraLearn/) |
-| Upcoming | Additional Internship Tasks  | Future internship projects will be added to this repository.                                                 | Coming Soon                                                                                                     |
+| Task 4   | NGO Website Feature Highlight  | NGO website feature highlight design using Figma            |                                                 | [View Task] (./TASK-4/)                                                                                                |
 
 ---
 
