@@ -118,11 +118,7 @@ The design uses a clean NGO-focused interface with:
 ```text
 TASK-4/
 ├── README.md
-├── NGO_Website_Feature_Highlight_Task4.svg
-├── NGO_Website_Feature_Highlight_Task4.png
-├── NGO_Website_Feature_Highlight_Task4.pdf
-├── Figma_Original_Design_Link.txt
-└── LinkedIn_Post_Screenshot.png
+└──  NGO_Website_Feature_Highlight.pdf
 ```
 
 ---
